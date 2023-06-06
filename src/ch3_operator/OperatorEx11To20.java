@@ -3,7 +3,7 @@ package ch3_operator;
 public class OperatorEx11To20 {
 	public static void main(String[] args) {
 		
-		/*		// OperatorEx11
+/*		// OperatorEx11
 		char c1 = 'a';
 		char c2 = c1;
 		char c3 = ' ';
